@@ -1,47 +1,40 @@
 # Onboarding
 
-Jetpack Compose clone of Tigo Pesa App, an opportunity to showcase Android development skills by
-creating a stunning UI for mobile payments using Kotlin and Jetpack Compose.
+This app showcases how to implement a simple onboarding experience using Jetpack Compose.
+
+## Features
+
+- [x] Onboarding screens with custom illustrations
+- [x] Navigation between screens with Pager
+- [x] Button visibility depends on the current page
+- [x] Animated pager indicator
 
 ## Screenshots
 
 <p align="center">
-<img src="docs/language.png" width="25%" height="25%"/>
-
-<img src="docs/auth.png" width="25%" height="25%"/>
-
 <img src="docs/home.png" width="25%" height="25%"/>
-
-<img src="docs/self_service.png" width="25%" height="25%"/>
-
-<img src="docs/otp.png" width="25%" height="25%"/>
 </p>
 
 ## Technologies Used
 
 - Kotlin
 - Jetpack Compose
-- Jetpack Navigation
 - Hilt Dependency Injection
 - Material Design
+- Pager
 
 ## Installation
 
-Clone this repository and open it using Android Studio Giraffe or higher. Make sure you have the
-latest version of the Android Gradle Plugin installed. The project uses the Hilt Gradle Plugin to
-generate the Dagger/Hilt dependency injection code, so you should also make sure that you have the
-kotlin-kapt plugin enabled in your build.gradle file.
+- Clone the repository
+- Open the project in Android Studio 4.2 or newer
+- Build and run the app on a connected device or emulator
 
 ## Usage
 
-The app simulates a mobile payments UI, allowing the user to enter a phone number, select a payment
-method, and confirm the transaction. The app uses Jetpack Compose to create a dynamic and visually
-appealing UI, and Jetpack Navigation to handle navigation between screens. Hilt is used for
-dependency injection, making it easy to manage dependencies and avoid boilerplate code.
+- When the app is launched, the onboarding screens will be displayed
+- Swipe left or right to navigate between the screens
+- On the last screen, tap the "Get Started" button to navigate to the main app screen
 
-## Video
-
-Check out the demo video of the TigoPesa app [here](docs/Tigo.mp4).
 
 ## Contributions
 
