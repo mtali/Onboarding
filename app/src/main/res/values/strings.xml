@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Onboarding</string>
+    <string name="tigo_title">Tigo Pesa</string>
+    <string name="tigo_desc">As a Tigo Pesa merchant you can always do more with the service. Now you can move money, pay bills, suppliers and draw cash from Tigo Pesa agents.</string>
+    <string name="airtel_title">Airtel Money</string>
+    <string name="airtel_desc">Airtel Money continues to improve the lives of our customers.Now Airtel Money customers cand send and withdraw Money without incurring the government Levy amount up to Tsh 29,999 /=</string>
+    <string name="mpesa_title">M-Pesa</string>
+    <string name="mpesa_desc">M-Pesa is a mobile phone-based money transfer service, payments and micro-financing service, launched in 2007 by Vodafone and Safaricom, the largest mobile network operator</string>
 </resources>
