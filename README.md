@@ -12,7 +12,7 @@ This app showcases how to implement a simple onboarding experience using Jetpack
 ## Screenshots
 
 <p align="center">
-<img src="docs/home.png" width="25%" height="25%"/>
+  <img src="docs/home.png" width="300"/>
 </p>
 
 ## Technologies Used
